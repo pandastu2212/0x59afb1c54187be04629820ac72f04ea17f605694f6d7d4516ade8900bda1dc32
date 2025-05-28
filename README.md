@@ -1,4 +1,4 @@
-# World ID Next.js Template
+#[![Relyance SCI Scan](https://github.com/pandastu2212/0x59afb1c54187be04629820ac72f04ea17f605694f6d7d4516ade8900bda1dc32/actions/workflows/relyance-sci.yml/badge.svg)](https://github.com/pandastu2212/0x59afb1c54187be04629820ac72f04ea17f605694f6d7d4516ade8900bda1dc32/actions/workflows/relyance-sci.yml) World ID Next.js Template
 
 This is a template repository for creating a new project using Next.js, TailwindCSS, and the [World ID SDK](https://id.worldcoin.org). This template isn't intended for use cases that require on-chain verification, but rather for use cases that leverage off-chain web backend verification.
 
